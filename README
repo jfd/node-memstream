@@ -1,0 +1,13 @@
+node-memstream
+--------------
+
+MemStream is a memory-based implementation of Nodejs built-in ´net´ module. It
+support most of the feature that Readable- and Writable provides.
+
+To install (default install path is ~/.node_libraries/memstream.js):
+
+  make install
+
+To run the tests:
+
+  make test-all
